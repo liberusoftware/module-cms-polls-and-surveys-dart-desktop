@@ -1,0 +1,15 @@
+{
+  "repository": "module-cms-polls-and-surveys-dart-desktop",
+  "capabilityKey": "liberusoftware/module-cms-polls-and-surveys",
+  "presentation": "dart-desktop",
+  "package": "module_cms_polls_and_surveys_dart_desktop",
+  "foundation": "module-boilerplate-dart-desktop",
+  "foundationCommit": "5ccb3f077d7279dad684f2aa24e4c9d27f0d1246",
+  "canonicalPlan": "projects/cms/nextjs/polls-and-surveys.md",
+  "presentationPlan": "projects/cms/features/polls-and-surveys.md",
+  "identityReviewRequired": false,
+  "status": "skeleton",
+  "documentedConsumerScopes": [
+    "cms"
+  ]
+}
